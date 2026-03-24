@@ -8,7 +8,6 @@ public class Greeting {
         String name = input.nextLine(); 
 
         System.out.println("Hello, " + name + "!"); 
-        System.out.println("Your name has " + name.length() + " 
-    characters."); 
+        System.out.println("Your name has " + name.length() + "characters."); 
     }
 }
